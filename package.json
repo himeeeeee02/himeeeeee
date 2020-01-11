@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "chalk": "^3.0.0",
     "lodash": "^4.17.15",
     "yargs": "^15.1.0"
   },
